@@ -1,1 +1,1 @@
-# Java-JDBC-Application
+# Java-JDBC-MySQL-Application
